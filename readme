@@ -1,0 +1,5 @@
+Cara menjalankan file generate barcode
+py nama_file.py
+
+contoh:
+py .\barcode.py
